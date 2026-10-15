@@ -1,0 +1,12 @@
+{
+  "name": "Můj deník",
+  "short_name": "Deník",
+  "description": "Soukromý deník s kalendářem a diktováním",
+  "lang": "cs-CZ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2457d6",
+  "icons": []
+}
